@@ -1,8 +1,7 @@
 # mashttp
 **Add https v1**
 
-*Install with Termux*
-
+**Install with Termux**
 
 ```$git clone https://github.com/maschil/mashttp```
 
