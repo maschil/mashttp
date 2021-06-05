@@ -1,7 +1,7 @@
 # mashttp
-```Add https v1```
+**Add https v1**
 
-```#Install with Termux```
+*Install with Termux*
 
 
 ```$git clone https://github.com/maschil/mashttp```
@@ -13,4 +13,4 @@
 ```$python2 http.py```
 
 
-```#Jangan lupa follow ya bangst```
+**Jangan lupa follow ya bangst**
